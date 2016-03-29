@@ -1,7 +1,7 @@
 name: Made from Concentrate
 favicon: null
-layout_spectrum: 0.7181029540952295
-typography_spectrum: 0.4925742328632623
+layout_spectrum: 1
+typography_spectrum: 0.06569
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.21609291643835604
-  lightness: 0.05272096395492554
-  saturation: 0.5851166229695082
-  rhythmicContrast: 0.6113721255678684
+    - '#ffffff'
+    - '#00b1da'
+    - '#bbbbbb'
+    - '#fe0000'
+    - '#000000'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
